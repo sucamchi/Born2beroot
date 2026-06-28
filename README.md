@@ -177,9 +177,6 @@ LVM (Logical Volume Manager) es un framework de mapeo de dispositivos que propor
 
 - Volúmenes Lógicos (LV): Particiones virtuales que pueden abarcar múltiples volúmenes físicos.
 
-## Comandos durante la evaluación:
-TODO
-
 
 ## Comandos útiles
 
